@@ -1,2 +1,2 @@
 # Guess_My_Number
-It is a game made using HTML, CSS and JavaScript only. The player has to guess the number behind the question mark. It has a standard score which decreases after every wrong guess. If the player guessed right, he/she wins.
+The "Guess My Number" project introduces an interactive and captivating game that challenges players' deductive skills and strategic thinking. The goal of the game is simple yet exciting: participants must correctly guess a randomly chosen number within a specified range. This project offers a delightful way to stimulate minds, encourage friendly competition, and foster critical thinking.
